@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pouco a Pouco](https://github.com/rafaelrocha00/Pouco_A_Pouco)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://portifolio.rafaelrocha00.repl.co/jogos.html](https://portifolio.rafaelrocha00.repl.co/jogos.html)
 
